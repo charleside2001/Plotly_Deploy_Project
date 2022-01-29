@@ -14,7 +14,7 @@ This project uses `JavaScript` array, `html` and `Bootstrap` customization  to i
 
 
 #### Dashboard Before Customization
- ![biodiversity_dashboard.png](https://github.com/charleside2001/Plotly_Deploy_Project/blob/9bfb82c8427d5085489c0f9ee4fef2085da9f90a/static/images/biodiversity_dashboard.png) to view UFO Sighting homepage
+ ![biodiversity_dashboard.png](https://github.com/charleside2001/Plotly_Deploy_Project/blob/9bfb82c8427d5085489c0f9ee4fef2085da9f90a/static/images/biodiversity_dashboard.png)
 
 
 #### Dashboard After Customization With Navigation Button 
